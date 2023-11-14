@@ -1,0 +1,7 @@
+{
+  "name": "coba_crud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
